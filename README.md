@@ -1,9 +1,6 @@
 # PokeTCG
 <br />
 <p align="center">
-  <a href="https://github.com/alexanderritik/Best-README-Template">
-    <img src="logo.jpeg" alt="Logo" width="80" height="80">
-  </a>
   <p align="center">
     PokeTCG is a Pokedex Catalog of Pokemon Trading Card Game. This is a native iOS application.
   </p>
@@ -28,5 +25,5 @@ Before running the project, please run 'pod install' command first.
 
 ## Meta
 
-Kevin Jonathan – [LinkedIn](https://www.linkedin.com/in/kevinjonathan-30/) – kevinjonathan@gmail.com
+Kevin Jonathan – [LinkedIn](https://www.linkedin.com/in/kevinjonathan3010/) – kevinjonathan3010@gmail.com
 
